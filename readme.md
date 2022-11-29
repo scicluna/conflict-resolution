@@ -1,5 +1,5 @@
-# conflict-resolution
+#conflict-resolution
 
-## This is a sub-heading created locally
+# this is a subheading created on github
 
-We added some Local stuff
+Editing to messup github
